@@ -1,0 +1,1 @@
+#q5 ruby program not write in html and print because it work in server with html not work same css and javascript in clint with html

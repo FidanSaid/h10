@@ -1,0 +1,15 @@
+javascript:
+ var a =["john","mike","susan","matt",'joe","larry","ken","samantha","jenny","sara","henny"];
+for (i = 0; i < a.length; i+=3)
+{
+     console.log(a[i].charAt(0)).toUpperCase()+a[];
+}
+
+
+ruby:
+a = "john,mike,susan,matt,joe,larry,ken,samantha,jenny,sara,henny"
+ for (i = 0; i < a.length; i+=3)
+ {
+   puts (a[i].toUpperCase()+a[]
+   }
+   end
